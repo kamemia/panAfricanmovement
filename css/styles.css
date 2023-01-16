@@ -475,7 +475,7 @@ input[type='checkbox'] {
 	border-bottom: 1px solid #e3e8ec;
 	background-color: #ffffff;
 	font-weight: 600;
-	font-size: 0.875rem;
+	font-size: 1rem;
 	line-height: 0.875rem;
 }
 
@@ -485,8 +485,8 @@ input[type='checkbox'] {
 }
 
 .navbar .logo-image img {
-    width: 530px;
-	height: 230px;
+    width: 129px;
+	height: 60px;
 }
 
 .navbar .logo-text {
